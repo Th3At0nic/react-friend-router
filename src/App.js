@@ -5,7 +5,6 @@ import Friend from "./Components/Friend/Friend";
 import Home from "./Components/Home/Home";
 import NoMatch from "./Components/NoMatch/NoMatch";
 import ShowDetail from "./Components/ShowDetails/ShowDetail";
-// import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
   return (
